@@ -1,0 +1,23 @@
+{
+    "name": "sterc/usermanagement",
+    "description": "Repository which contains the user management extra.",
+    "version": "v0.0.1",
+    "type": "library",
+    "keywords": ["Skeleton", "sterc","User management"],
+    "homepage": "https://www.sterc.nl",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Sander Drenth",
+            "email": "sander@sterc.nl",
+            "homepage": "https://www.sterc.nl",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "sander@sterc.nl",
+        "source": "https://bitbucket.org/sterc/usermanagement"
+    }
+}
