@@ -222,7 +222,6 @@ Ext.extend(userManagement.panel.User,MODx.FormPanel,{
                         xtype: 'radiogroup'
                         ,fieldLabel: _('password_method')
                         ,columns: 1
-                        ,hidden:true
                         ,items: [{
                             id: 'modx-user-passwordnotifymethod-e'
                             ,name: 'passwordnotifymethod'
